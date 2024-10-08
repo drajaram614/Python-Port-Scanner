@@ -49,6 +49,6 @@ Working on this project enhanced my understanding of:
 ## Example Output
 Below is an example screenshot of the port scanner output:
 
-![Port Scanner Output](PortScanner/portscanner_output.png )
+![Port Scanner Output](Port_Scanner/portscanner_output.png )
 
 ---
